@@ -1,5 +1,0 @@
-package demospringsecurity.security;
-
-public class SecurityConfig {
-
-}
