@@ -1,0 +1,5 @@
+package demospringsecurity.services;
+
+public class MyUserDetails {
+
+}

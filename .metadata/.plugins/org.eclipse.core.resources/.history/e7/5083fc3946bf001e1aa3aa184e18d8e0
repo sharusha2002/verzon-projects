@@ -1,0 +1,17 @@
+package demospringsecurity.services;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import demospringsecurity.repositories.UserRepository;
+
+@Service
+public class UserDetailsService implements MyUserDetailsService{
+	
+	@Autowired
+	UserRepository repo;
+	
+	
+
+
+}
